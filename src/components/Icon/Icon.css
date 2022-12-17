@@ -1,0 +1,8 @@
+.icon {
+  background: red
+}
+
+.icon svg {
+  stroke: green;
+  fill: green;
+}
